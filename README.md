@@ -9,7 +9,7 @@ The input file (Flights.csv) is provided with a few examples. If you wish to add
   - Airline name, Departure airport, Arrival airport, Price
   - For example: Delta, ATL, MIA, 220.30
 
-To run, navigate to the folder where Main.java is being held. Then, type "javac \*.java" to compile the code. Finally, type "java Main" to start the program. From here, enter the inputs.
+To run, download all files and navigate to the folder where Main.java is being held. Then, type "javac \*.java" to compile the code. Finally, type "java Main" to start the program. From here, enter the inputs.
 
 - Inputs:
   - Departure airport in the same format as the input file (e.g. ATL)
@@ -19,7 +19,7 @@ To run, navigate to the folder where Main.java is being held. Then, type "javac 
   
 If you do not specify an airline, it will show the lowest cost route for each airline from the departure airport to the arrival airport.
 
-Here is a sample session from the data in the given input file:
+Here is a sample session using the data in the given input file:
 
 >Welcome to the flight manager!
 >You are guaranteed to find the lowest price for any flight!
