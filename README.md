@@ -2,7 +2,7 @@
 
 This program implements dijkstra's algorithm to find the lowest cost path from one airport to another for every airline. It will read from an input file (Flights.csv) and populate both Airline and Airport objects. From here an infinite loop will run, asking if you wish to continue searching for flights. 
 
-The input file (Flights.csv) is provided with a few examples. If you wish to add to or create a new file, the format is as follows:
+The input file (Flights.csv) is provided with a few examples. If you wish to add to the existing file or create a new file, the format is as follows:
 
 - File name: Flights.csv (must be this exact name and placed inside the same subdirectory as Main.java)
 - File format:
